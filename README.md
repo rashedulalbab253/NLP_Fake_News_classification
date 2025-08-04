@@ -2,6 +2,10 @@
 
 This project focuses on classifying news articles as **fake** or **real** using Natural Language Processing (NLP) techniques and supervised machine learning models.
 
+## ⚠️ Note
+
+> My previous GitHub account was unexpectedly suspended. This project was originally created earlier and has been re-uploaded here. All work was done gradually over time, and original commit history has been preserved where possible.
+
 ---
 
 ## 🚀 Project Highlights
@@ -43,9 +47,7 @@ The dataset contains:
 
 ---
 
-## ⚠️ Note
 
-> My previous GitHub account was unexpectedly suspended. This project was originally created earlier and has been re-uploaded here. All work was done gradually over time, and original commit history has been preserved where possible.
 
 ---
 
